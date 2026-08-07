@@ -156,6 +156,10 @@ The **Logistic Regression** model combined with **TF-IDF** achieved the best val
 | Accuracy       | **0.8571** |
 | Macro F1-score | **0.8551** |
 
+### Test Set Observation
+
+The final Logistic Regression model achieved an Accuracy of **0.8571** and a Macro F1-score of **0.8551** on the unseen test set. The small difference between validation and test Macro F1 indicates that the model maintained relatively consistent performance on unseen data.
+
 ---
 
 ## Technologies
